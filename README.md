@@ -7,6 +7,15 @@ Aqui você vai encontrar todo o material do seminário que desenvolvemos para a 
 ## Tema
 * Linguagem de Programação Swift e Suas Principais Características.
 
+## Exemplos de códigos
+
+* Ex.1
+
+![Exemplo1](https://github.com/user-attachments/assets/6f7924f6-cd5c-424c-83f2-b4b8a95e4190)
+
+* Ex.2
+
+![Exemplo2](https://github.com/user-attachments/assets/48c3cc68-e8e7-49a3-8132-315ef1313311)
 
 ## Tecnologia Usada
 * Gamma App: Utilizamos essa IA para criar os slides do nosso projeto e, com alguns ajustes personalizados, conseguimos aprimorar o conteúdo para deixá-lo ainda mais claro e impactante.
